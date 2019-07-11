@@ -12,4 +12,4 @@ Układ wagi.
 
 Widok aplikacji
 
-![waga](/img/Zdjęcie000001.png)
+![waga](/img/Zdjęcie000001.jpg)
