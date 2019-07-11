@@ -9,3 +9,7 @@ Dokładny wysiew nawozu mineralnego zmniejsza koszty prowadzenia uprawy oraz uje
 Układ wagi.
 
 ![waga](/img/IMG_20190705_131600.jpg)
+
+Widok aplikacji
+
+![waga](/img/Zdjęcie000001.png)
